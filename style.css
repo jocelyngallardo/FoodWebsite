@@ -1,12 +1,24 @@
 #content {
      margin-left: 20px;
 }
+<<<<<<< HEAD
 /*:not(nav){ margin-left: 20px;}*/
 #g1{
   float: right;
   border: double 10px;
-  width:240px;
-  height:240px;
+  width:120px;
+  height:120px;
   margin-top:50px;
   margin-right:50px;
+}
+h1{
+	text-align:center;
+	font-family: "Times New Roman", Times, serif;
+}
+p{
+	text-align:center;
+	font-family: "Times New Roman", Times, serif;
+}
+body{
+	font-family: "Times New Roman", Times, serif;
 }
