@@ -1,15 +1,19 @@
 #content {
      margin-left: 20px;
 }
-<<<<<<< HEAD
-/*:not(nav){ margin-left: 20px;}*/
 #g1{
   float: right;
-  border: double 10px;
-  width:120px;
-  height:120px;
+  border: double 5px;
+  width:250px;
+  height:250px; 
   margin-top:50px;
   margin-right:50px;
+}
+#gs{
+	margin-left:20px;
+}
+#sp{
+	margin-left:20px;
 }
 h1{
 	text-align:center;
