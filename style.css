@@ -9,6 +9,18 @@
   margin-top:50px;
   margin-right:50px;
 }
+#cr{
+  float: right;
+  border: double 5px;
+  margin-top:50px;
+  margin-right:50px;
+}
+#m2{
+  float: left;
+  border: double 5px;
+  margin-top:50px;
+  margin-left:50px;
+}
 #appleFloats{
 	  float: center-left;
 	  width:150px;
