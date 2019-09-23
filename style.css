@@ -1,25 +1,57 @@
 #content {
      margin-left: 20px;
 }
-<<<<<<< HEAD
-/*:not(nav){ margin-left: 20px;}*/
 #g1{
   float: right;
-  border: double 10px;
-  width:120px;
-  height:120px;
+  border: double 5px;
+  width:250px;
+  height:250px; 
   margin-top:50px;
   margin-right:50px;
 }
+#appleFloats{
+	  float: center-left;
+	  width:150px;
+	  height:210px;
+	  margin-top:50px;
+	  margin-right:50px;
+}
+.row{
+	margin-left: 20px;
+}
+#gs{
+	margin-left:20px;
+}
+#sp{
+	margin-left:20px;
+}
 h1{
 	text-align:center;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	font-family: "Times New Roman", Times, serif;
+}
+h2{
+	text-align:center;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 20px;
 	font-family: "Times New Roman", Times, serif;
 }
 p{
 	text-align:center;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
 	font-family: "Times New Roman", Times, serif;
 	text-size: 14;
 }
 body{
 	font-family: "Times New Roman", Times, serif;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 20px;
+	margin-bottom: 20px;
 }
