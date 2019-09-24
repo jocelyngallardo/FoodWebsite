@@ -2,18 +2,39 @@
      margin-left: 20px;
 }
 #g1{
-  float: right;
+  
   border: double 5px;
-  width:250px;
-  height:250px; 
+  width:800px;
+  height:720px; 
   margin-top:50px;
   margin-right:50px;
 }
 #cr{
-  float: right;
+ 
   border: double 5px;
-  width:800px;
+  width:826px;
+  height:620px; 
+  margin-top:50px;
+  margin-right:50px;
+}
+#bk{
+  border: double 5px;
+  width:600px;
   height:600px; 
+  margin-top:50px;
+  margin-right:50px;
+}
+#bb{
+  border: double 5px;
+  width:682px;
+  height:1024px; 
+  margin-top:50px;
+  margin-right:50px;
+}
+#na{
+  border: double 5px;
+  width:768px;
+  height:512px; 
   margin-top:50px;
   margin-right:50px;
 }
