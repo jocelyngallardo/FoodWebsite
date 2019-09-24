@@ -3,11 +3,16 @@
 }
 #g1{
   float: right;
-  border: double 5px;
+  border: solid 5px;
   width:250px;
   height:250px; 
   margin-top:50px;
-  margin-right:50px;
+  margin-right:20px;
+  margin-left:20px;
+}
+#gs{
+	min-width: 350px;
+	border: double 5px;
 }
 #cr{
   width:800px;
@@ -31,11 +36,16 @@
 .row{
 	margin-left: 20px;
 }
-#gs{
-	margin-left:20px;
-}
 #sp{
 	margin-left:20px;
+	border: double 5px;
+}
+#p{
+  border: solid 5px;
+  width: 260px;
+  height: 195px;
+  float: right;
+  margin-top: 100px;
 }
 h1{
 	text-align:center;
