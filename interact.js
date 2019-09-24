@@ -3,12 +3,9 @@
 	toggle with seasonal drinks
  */
  $(document).ready(function(){
-	$("h1").click(function(){
-		$("p").toggle();
-		$("img").toggle;
-	});
-	$("#one").click(function(){
-		$(".hide").toggle();
-		$("img").show();
-	});
+	/*$("h2").click(function(){;
+		$("#drinkText").toggle();
+		$("#drinkRecipe").toggle();
+		$("#appleFloats").toggle()
+	});*/
 });
