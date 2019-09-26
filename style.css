@@ -1,10 +1,17 @@
 #content {
      margin-left: 20px;
 }
-#g1{  
+.Mexican{
 
-  border: double 5px;
-  float: right;
+}
+#it{
+	min-width: 350px;
+	border: double 5px;
+}
+#g1{  
+  border: solid 5px;
+  width:800px;
+  height:720px; 
   border: solid 5px;
   width:250px;
   height:250px; 
@@ -16,32 +23,36 @@
 	min-width: 350px;
 	border: double 5px;
 }
+#mx{
+	min-width: 350px;
+	border: double 5px;
+}
 #cr{
-  border: double 5px;
-  width:826px;
-  height:620px; 
+  border: solid 5px;
+  float : right;
+  width:330px;
+  height:330px; 
   margin-top:50px;
-  margin-right:50px;
+  margin-right:20px;
+    margin-left:20px
 }
 #bk{
-  border: double 5px;
-  width:600px;
-  height:600px; 
-  margin-top:50px;
-  margin-right:50px;
+  border: solid 5px;
+  width:350px;
+  height: 350px;
+  float: center;
+  margin-right:20px;
 }
 #bb{
-  border: double 5px;
-  width:682px;
-  height:1024px; 
-  margin-top:50px;
-  margin-right:50px;
+  border: solid 5px;
+  width:350;
+  height:350;
+  margin-right:20px;
 }
 #na{
-  border: double 5px;
-  width:768px;
-  height:512px; 
-  margin-top:50px;
+  border: solid 5px;
+  width:350px;
+  height:350px; 
   margin-right:50px;  
 }
 #m2{
@@ -61,7 +72,7 @@
 	margin-left: 20px;
 }
 #sp{
-	margin-left:20px;
+	min-width: 350px;
 	border: double 5px;
 }
 #p{
@@ -78,6 +89,7 @@ h1{
 	margin-top: 20px;
 	margin-bottom: 20px;
 	font-family: "Times New Roman", Times, serif;
+	font-size: 14;
 }
 h2{
 	text-align:center;
@@ -85,6 +97,7 @@ h2{
 	margin-right: 20px;
 	margin-top: 20px;
 	font-family: "Times New Roman", Times, serif;
+	font-size: 14;
 }
 p{
 	text-align:center;
@@ -92,7 +105,7 @@ p{
 	margin-right: 20px;
 	margin-bottom: 20px;
 	font-family: "Times New Roman", Times, serif;
-	text-size: 14;
+	font-size: 14;
 }
 #drinkText{
 	text-align:center;
@@ -100,7 +113,7 @@ p{
 	margin-right: 20px;
 	margin-bottom: 20px;
 	font-family: "Times New Roman", Times, serif;
-	text-size: 14;
+	font-size: 14;
 }
 .drinkRecipe{
 	margin-left: 20px;
@@ -112,4 +125,5 @@ body{
 	margin-right: 20px;
 	margin-top: 20px;
 	margin-bottom: 20px;
+	font-size: 14;
 }
