@@ -43,6 +43,13 @@
   float: center;
   margin-right:20px;
 }
+#bkf{
+  border: solid 5px;
+  width:350px;
+  height: 350px;
+  float: center;
+  margin-right:20px;
+}
 #bb{
   border: solid 5px;
   width:350;
