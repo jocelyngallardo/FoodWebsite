@@ -1,14 +1,13 @@
 #content {
      margin-left: 20px;
 }
-#g1{
+#g1{  
 
-  
   border: double 5px;
-  width:800px;
-  height:720px; 
   float: right;
   border: solid 5px;
+  width:250px;
+  height:250px; 
   margin-top:50px;
   margin-right:20px;
   margin-left:20px;
@@ -31,7 +30,6 @@
   margin-top:50px;
   margin-right:50px;
 }
-
 #bb{
   border: double 5px;
   width:682px;
@@ -44,7 +42,7 @@
   width:768px;
   height:512px; 
   margin-top:50px;
-  margin-right:50px;
+  margin-right:50px;  
 }
 #m2{
   float: left;
