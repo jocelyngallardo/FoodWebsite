@@ -2,17 +2,13 @@
      margin-left: 20px;
 }
 #g1{
-<<<<<<< HEAD
+
   
   border: double 5px;
   width:800px;
   height:720px; 
-=======
   float: right;
   border: solid 5px;
-  width:250px;
-  height:250px; 
->>>>>>> c35e6fb1941c54b43474bbe336e13f1258c51c5f
   margin-top:50px;
   margin-right:20px;
   margin-left:20px;
@@ -22,8 +18,6 @@
 	border: double 5px;
 }
 #cr{
-<<<<<<< HEAD
- 
   border: double 5px;
   width:826px;
   height:620px; 
@@ -33,14 +27,11 @@
 #bk{
   border: double 5px;
   width:600px;
-=======
-  width:800px;
->>>>>>> c35e6fb1941c54b43474bbe336e13f1258c51c5f
   height:600px; 
   margin-top:50px;
   margin-right:50px;
 }
-<<<<<<< HEAD
+
 #bb{
   border: double 5px;
   width:682px;
@@ -54,13 +45,12 @@
   height:512px; 
   margin-top:50px;
   margin-right:50px;
-=======
+}
 #m2{
   float: left;
   border: double 5px;
   margin-top:50px;
   margin-left:50px;
->>>>>>> c35e6fb1941c54b43474bbe336e13f1258c51c5f
 }
 #appleFloats{
 	  float:center-left;
