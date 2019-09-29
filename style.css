@@ -8,6 +8,17 @@
 	min-width: 350px;
 	border: double 5px;
 }
+#pasta{
+  border: solid 5px;
+  width:800px;
+  height:720px; 
+  border: solid 5px;
+  width:250px;
+  height:250px; 
+  margin-top:50px;
+  margin-right:20px;
+  margin-left:20px;
+}
 #g1{  
   border: solid 5px;
   width:800px;
