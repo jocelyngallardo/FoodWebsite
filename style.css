@@ -11,21 +11,21 @@
 #pasta{
   border: solid 5px;
   width:800px;
-  height:720px; 
+  height:720px;
   border: solid 5px;
   width:250px;
-  height:250px; 
+  height:250px;
   margin-top:50px;
   margin-right:20px;
   margin-left:20px;
 }
-#g1{  
+#g1{
   border: solid 5px;
   width:800px;
-  height:720px; 
+  height:720px;
   border: solid 5px;
   width:250px;
-  height:250px; 
+  height:250px;
   margin-top:50px;
   margin-right:20px;
   margin-left:20px;
@@ -42,7 +42,7 @@
   border: solid 5px;
   float : right;
   width:330px;
-  height:330px; 
+  height:330px;
   margin-top:50px;
   margin-right:20px;
     margin-left:20px
@@ -63,15 +63,15 @@
 }
 #bb{
   border: solid 5px;
-  width:350;
-  height:350;
+  width:50;
+  height:50;
   margin-right:20px;
 }
 #na{
   border: solid 5px;
   width:350px;
-  height:350px; 
-  margin-right:50px;  
+  height:350px;
+  margin-right:50px;
 }
 #m2{
   float: left;
