@@ -110,8 +110,10 @@ h1{
 	font-family: "Times New Roman", Times, serif;
 	font-size: 14;
 }
+#floatRecipe{
+display: none;
+}
 h2{
-  display: none;
 	text-align:center;
 	margin-left: 20px;
 	margin-right: 20px;
