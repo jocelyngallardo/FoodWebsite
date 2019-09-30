@@ -3,6 +3,10 @@
 	toggle with seasonal drinks
  */
  $(document).ready(function(){
+   $("h2").click(function(){
+  $("#appleFloats").fadeIn();
+  $("#floatRecipe").fadeIn();
+});
 	/*$("#click").click(function(){;
 		$("#drinkText").toggle();
 		$("#drinkRecipe").toggle();
@@ -10,7 +14,7 @@
 	});
 	$(".appear").attr();
 	});*/
-	$("#click").click(function(){
+	/*$("#click").click(function(){
 		$('#bk').attr('src','Beans.jpg');
-	});	
-}); 
+	});	*/
+});
