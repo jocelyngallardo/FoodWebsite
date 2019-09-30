@@ -5,7 +5,7 @@
  $(document).ready(function(){
    $("h2").click(function(){
   $("#appleFloats").fadeIn();
-  $("#floatRecipe").fadeIn();
+  $(".floatRecipe").fadeIn();
 });
 	/*$("#click").click(function(){;
 		$("#drinkText").toggle();
