@@ -4,8 +4,8 @@
  */
  $(document).ready(function(){
    $("h2").click(function(){
-   $(".floatRecipe").fadeIn();
-   $("#appleFloats").fadeIn();
+   $(".floatRecipe").fadeToggle();
+   $("#appleFloats").fadeToggle();
 });
 	/*$("#click").click(function(){;
 		$("#drinkText").toggle();
